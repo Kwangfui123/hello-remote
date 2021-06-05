@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  Dev290x 
+=======
+Here is the text we're adding into demo.txt
+>>>>>>> 019b4686e8cbbc88f5b3cecc2af6f2fa63678f1f
